@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anti-Backdoor Project (ABP)</title>
 </head>
 <body>
     <h1>Anti-Backdoor Project (ABP)</h1>
