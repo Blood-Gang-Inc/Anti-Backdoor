@@ -40,10 +40,6 @@
     <p>
         For a solution to help prevent unauthorized access, check out the <a href="https://github.com/Blood-Gang-Inc/Anti-Backdoor/releases" target="_blank">Anti-Backdoor Project (ABP)</a>.
     </p>
-    <h2>😊 CREDITS:</h2>
-    <p>
-        - Developed by: 4z#6666 (demonswith1n)<br>
-    </p>
     <p>&copy; 2024 Blood Gang™️, Inc</p>
 </body>
 </html>
