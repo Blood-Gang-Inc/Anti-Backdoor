@@ -36,6 +36,11 @@
         <li>Keep software updated with the latest security patches.</li>
         <li>Conduct thorough security testing before deploying applications.</li>
     </ul>
+                                                      <div class="button-container">
+            <a class="button" href="https://linkr.it/blood" target="_blank">
+                <img src="https://files.catbox.moe/cunqhf.png" alt="Discord's Logo" style="vertical-align: middle;">
+            </a>
+        </div>
     <h2>Join the Anti-Backdoor Project</h2>
     <p>
         For a solution to help prevent unauthorized access, check out the <a href="https://github.com/Blood-Gang-Inc/Anti-Backdoor/releases" target="_blank">Anti-Backdoor Project (ABP)</a>.
