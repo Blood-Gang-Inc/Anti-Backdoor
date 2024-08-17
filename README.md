@@ -41,7 +41,7 @@
                 <img src="https://files.catbox.moe/cunqhf.png" alt="Discord's Logo" style="vertical-align: middle;">
             </a>
         </div>
-    <h2>Join the Anti-Backdoor Project</h2>
+    <h2><img src="https://github.com/user-attachments/assets/ba78de70-ec68-45e8-8d4b-fbc5de812820" alt="BG Official"> Join the Anti-Backdoor Project</h2>
     <p>
         For a solution to help prevent unauthorized access, check out the <a href="https://github.com/Blood-Gang-Inc/Anti-Backdoor/releases" target="_blank">Anti-Backdoor Project (ABP)</a>.
     </p>
