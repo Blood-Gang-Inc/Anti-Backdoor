@@ -33,8 +33,7 @@ For a solution to help prevent unauthorized access, check out the [Anti-Backdoor
 
 ## Connect with Us
 
-For more information and updates, join our community on Discord:
-[Join our Discord](https://linkr.it/blood)
+For more information and updates, [join our community on Discord](https://linkr.it/blood).
 
 ---
 
