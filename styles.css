@@ -1,48 +1,49 @@
-/* Reset some basic styles for consistency across browsers */
+/* Global reset for consistency across browsers */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Style the body */
+/* Body styling */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f2f5;
+    background-color: #f5f7fa;
     color: #333;
     line-height: 1.6;
     margin: 0;
     padding: 0;
 }
 
-/* Style the main container */
+/* Main container styling */
 .container {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 
-/* Header (h1) styles */
+/* Header styles (H1) */
 h1 {
-    font-size: 2.5em;
-    color: #444;
-    margin-bottom: 20px;
+    font-size: 2.8em;
+    color: #333;
+    margin-bottom: 25px;
+    font-weight: 600;
 }
 
-/* Paragraph styles */
+/* General paragraph styling */
 p {
-    font-size: 1.2em;
-    margin-bottom: 20px;
+    font-size: 1.15em;
+    margin-bottom: 25px;
     color: #555;
 }
 
 /* Hyperlink styles */
 a {
-    color: #1a73e8;
+    color: #0056b3;
     text-decoration: none;
 }
 
@@ -50,15 +51,15 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Button container */
+/* Button container styling */
 .button-container {
-    margin: 20px 0;
+    margin: 25px 0;
 }
 
-/* Discord button styling */
+/* Button styling (for Discord link) */
 .button {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 12px 25px;
     background-color: #5865F2;
     color: white;
     border-radius: 5px;
@@ -68,33 +69,34 @@ a:hover {
 }
 
 .button img {
-    width: 24px;
-    height: 24px;
+    width: 28px;
+    height: 28px;
     margin-right: 8px;
+    vertical-align: middle;
 }
 
 .button:hover {
-    background-color: #404eed;
+    background-color: #4a5de7;
 }
 
-/* Sub-header (h2) styles */
+/* Sub-header (H2) styling */
 h2 {
-    font-size: 2em;
-    margin: 40px 0 20px 0;
-    color: #333;
+    font-size: 2.2em;
+    margin: 50px 0 25px 0;
+    color: #444;
 }
 
-/* Footer text */
+/* Footer section */
 footer p {
     text-align: center;
-    color: #777;
-    margin-top: 40px;
-    font-size: 0.9em;
+    color: #888;
+    font-size: 0.95em;
+    margin-top: 50px;
 }
 
-/* Style for the copyright */
+/* Last paragraph for copyright */
 p:last-of-type {
     font-size: 0.9em;
-    color: #777;
-    margin-top: 40px;
+    color: #888;
+    margin-top: 30px;
 }
