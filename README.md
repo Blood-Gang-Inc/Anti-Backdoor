@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Anti-Backdoor Project (ABP)</h1>
+    <h1><img src="https://static.wixstatic.com/media/4585c8_562a61587130440b8df3e8d713ad29bf~mv2.png/v1/fill/w_70,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/blood%20gang%20icon.png" alt="BG's Logo"> Anti-Backdoor Project (ABP)</h1>
     <p>
         Welcome to the Anti-Backdoor Project (ABP). Our mission is to provide tools and resources to prevent unauthorized access and ensure the security of software systems.
     </p>
