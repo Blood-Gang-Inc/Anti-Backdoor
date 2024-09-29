@@ -18,9 +18,17 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 });
 
-// Example: Adding a simple alert for demo purposes
-document.querySelectorAll('.links a').forEach(link => {
-    link.addEventListener('click', () => {
-        alert('You are about to visit an external site!');
-    });
+// Alert and confirm external links (any link that is not to GitHub)
+document.querySelectorAll('a').forEach(link => {
+    const isExternal = link.href && !link.href.includes('github.com');
+    
+    if (isExternal) {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const userConfirmed = confirm('You are about to visit an external site. Do you wish to proceed?');
+            if (userConfirmed) {
+                window.open(link.href, '_blank');
+            }
+        });
+    }
 });
